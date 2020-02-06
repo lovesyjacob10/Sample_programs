@@ -1,2 +1,2 @@
-# Sample_programs
+# Sample program
 contain sample programs
